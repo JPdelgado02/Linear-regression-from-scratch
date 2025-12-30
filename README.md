@@ -1,15 +1,15 @@
-# Regresión lineal simple en Python
+# simple linear regression in python  
 
-Proyecto introductorio que aplica un modelo de regresión lineal para analizar
-la relación entre fertilización y rendimiento agrícola.
+Introductory project applying a linear regression model to analyse the relationship between fertilization and agriculture yield 
 
-## Tecnologías
+
+## Tecnologia 
 - Python
 - NumPy
 - Matplotlib
 - scikit-learn
 
-## Ejecución
+## Usage
 ```bash
-python mine.py
+python regression.py
  #Autor: ING. Juan Pablo Delgado Zambrano 
